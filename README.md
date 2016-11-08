@@ -1,2 +1,2 @@
 # flexocpu
-Exemple of use of opencpu in a flexdashboar
+Exemple of use of opencpu in a flexdashboard
