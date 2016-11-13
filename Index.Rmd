@@ -202,27 +202,27 @@ valueBox(4, icon = "fa-envelope-o", color = '#ff8039')
 Row {data-height=200}
 -----------------------------------------------------------------------
 
-### Indicator 1
+### Month 1 Prediction
 
 ```{r}
-gauge(90, min = 0, max = 100, gaugeSectors(
-  success = c(80, 100), warning = c(40, 79), danger = c(0, 39)
+gauge(105, min = 0, max = 100, gaugeSectors(
+  success = c(80, 200), warning = c(40, 79), danger = c(0, 39)
 ))
 ```
 
-### Indicator 2
+### Month 2 Prediction
 
 ```{r}
-gauge(30, min = 0, max = 100, gaugeSectors(
-  success = c(41, 50), warning = c(21, 40), danger = c(0, 20)
+gauge(110, min = 0, max = 100, gaugeSectors(
+  success = c(80, 200), warning = c(21, 40), danger = c(0, 20)
 ))
 ```
 
-### Indicator 3
+### Month 3 Prediction
 
 ```{r}
-gauge(8, min = 0, max = 100, gaugeSectors(
-  success = c(0, 2), warning = c(3, 6), danger = c(7, 10)
+gauge(125, min = 0, max = 100, gaugeSectors(
+  success = c(80, 200), warning = c(3, 6), danger = c(7, 10)
 ))
 ```
 
