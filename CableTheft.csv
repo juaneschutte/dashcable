@@ -1,0 +1,88 @@
+DATE,LOG.NR.,CABLE EQUIPMENT TYPE,LOCATION,S,AREA,CR. NR.,INVST. NAME,First Responder,Days since Last Patrol,Weather,Rand Impact
+02/05/2016,May16L000009,10mm² x 2–core LT Cable,Consumer at 1899 HTJ,1,Blue Hills,,J. SMITH,Police,24,Cloudy,6000000
+04/05/2016,May16L000010,10mm² x 2–core LT Cable,Consumer at 2001 HTJ,,The Carousel Casino and Entertainment World,,N. NIMMS,Private,36,Rain,6000000
+05/05/2016,May16L000011,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Bonamanzi Marina and Country Club,,F. SIPHO,Company,15,Sun,6000000
+06/05/2016,May16L000012,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Cheetah Park,,K. WATTS,Telkom,12,Rain,9000000
+07/05/2016,May16L000013,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Tshwane NU,,J. LIPPS,Eskom,14,Cloudy,9000000
+11/05/2016,May16L000014,10mm² x 2–core LT Cable,Consumer at 2013 HTJ,,Tweedracht,,J. SMITH,Other,54,Sun,9000000
+11/05/2016,May16L000015,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Doornkraal,,N. NIMMS,Police,56,Cloudy,9000000
+12/05/2016,May16L000016,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Downbern,,F. SIPHO,Private,4,Rain,9000000
+13/05/2016,May16L000017,10mm² x 2–core LT Cable,Consumer at 2013 HTJ,,Kameelfontein,,K. WATTS,Company,23,Cloudy,9000000
+16/05/2016,May16L000018,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Bosplaas Mathabe,,J. LIPPS,Telkom,43,Rain,9000000
+17/05/2016,May16L000019,10mm² x 2–core LT Cable,Consumer at 1899 HTJ,,Wallmannsthal,,J. SMITH,Eskom,24,Sun,9000000
+19/05/2016,May16L000020,10mm² x 2–core LT Cable,Consumer at 1899 HTJ,,Kleinfontein,,N. NIMMS,Other,36,Cloudy,9000000
+19/05/2016,May16L000021,10mm² x 2–core LT Cable,Consumer at 2006 HTJ,,Roodeplaat,,F. SIPHO,Police,15,Windy,9000000
+19/05/2016,May16L000022,10mm² x 2–core LT Cable,Consumer at 2007 HTJ,,Boschkop,,K. WATTS,Private,12,Windy,15000000
+21/05/2016,May16L000023,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Babelegi,,J. LIPPS,Company,14,Cloudy,15000000
+22/05/2016,May16L000024,10mm² x 2–core LT Cable,Consumer at 2007 HTJ,,Bultfontein,,J. SMITH,Telkom,54,Rain,15000000
+23/05/2016,May16L000025,10mm² x 2–core LT Cable,Consumer at 2007 HTJ,,Vaalbank,,N. NIMMS,Eskom,56,Windy,15000000
+24/05/2016,May16L000026,10mm² x 2–core LT Cable,Consumer at 2007 HTJ,,Wageenbietjieskop,,F. SIPHO,Telkom,3,Rain,15000000
+25/05/2016,May16L000027,10mm² x 2–core LT Cable,Consumer at 2007 HTJ,,Zwavelpoort,,K. WATTS,Eskom,23,Windy,15000000
+29/05/2016,May16L000028,10mm² x 2–core LT Cable,Consumer at 2007 HTJ,,Tierpoort,,J. LIPPS,Other,5,Sun,15000000
+30/05/2016,May16L000029,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Rietfontein,,J. SMITH,Police,24,Windy,15000000
+31/05/2016,May16L000030,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Vastfontein,,N. NIMMS,Private,36,Rain,6000000
+01/06/2016,May16L000031,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Waterval,,F. SIPHO,Company,24,Cloudy,6000000
+02/06/2016,May16L000032,10mm² x 2–core LT Cable,Consumer at 2007 HTJ,,Haakdoornboom,,K. WATTS,Other,7,Rain,9000000
+03/06/2016,May16L000033,10mm² x 2–core LT Cable,Consumer at 2007 HTJ,,Rayton,,J. LIPPS,Police,15,Mon,9000000
+04/06/2016,May16L000034,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Grootvlei,,J. SMITH,Private,12,Rain,9000000
+05/06/2016,May16L000035,10mm² x 2–core LT Cable,Consumer at 2007 HTJ,,Leeufontein,,N. NIMMS,Company,14,Cloudy,9000000
+05/06/2016,May16L000036,10mm² x 2–core LT Cable,Consumer at 2007 HTJ,,Bashewa,,F. SIPHO,Other,54,Mon,9000000
+05/06/2016,May16L000037,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Roodepoort,,K. WATTS,Police,56,Cloudy,9000000
+05/06/2016,May16L000038,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Bon Accord,,J. LIPPS,Private,4,Rain,9000000
+05/06/2016,May16L000039,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Donkerhoek,,J. SMITH,Company,23,Cloudy,9000000
+06/06/2016,May16L000040,10mm² x 2–core LT Cable,Consumer at 2007 HTJ,,Cullinan,,N. NIMMS,Telkom,43,Rain,9000000
+07/06/2016,May16L000041,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Pebble Rock Golf Village,,F. SIPHO,Eskom,8,Mon,9000000
+08/06/2016,May16L000042,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Soutpan,,K. WATTS,Other,36,Cloudy,15000000
+08/06/2016,May16L000043,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Derdepoort,,J. LIPPS,Police,9,Windy,15000000
+09/06/2016,May16L000044,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Baviaanspoort,,J. SMITH,Telkom,12,Windy,6000000
+12/06/2016,May16L000045,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Sable Hills Waterfront Estate,,N. NIMMS,Eskom,14,Cloudy,6000000
+12/06/2016,May16L000046,10mm² x 2–core LT Cable,Consumer at 2007 HTJ,,Kameeldrift,,F. SIPHO,Other,12,Rain,9000000
+13/06/2016,May16L000047,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Keinfontein,,K. WATTS,Police,56,Windy,9000000
+14/06/2016,May16L000048,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Mooiplaas,,J. LIPPS,Private,4,Rain,9000000
+15/06/2016,May16L000049,10mm² x 2–core LT Cable,Consumer at 1899 HTJ,,Bronkhorstspruit,,J. SMITH,Company,23,Windy,9000000
+16/06/2016,May16L000050,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Grootfontein,,N. NIMMS,Telkom,43,Mon,9000000
+17/06/2016,May16L000051,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Dilopye,,F. SIPHO,Company,24,Windy,9000000
+18/06/2016,May16L000052,10mm² x 2–core LT Cable,Consumer at 1899 HTJ,,Centurion,,K. WATTS,Telkom,2,Rain,9000000
+19/06/2016,May16L000053,10mm² x 2–core LT Cable,Consumer at 1899 HTJ,,Tsebe,,J. LIPPS,Eskom,13,Cloudy,9000000
+20/06/2016,May16L000054,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Akasia,,J. SMITH,Other,36,Rain,6000000
+21/06/2016,May16L000055,10mm² x 2–core LT Cable,Consumer at 2017 HTJ,,Thembisile,,N. NIMMS,Police,15,Tue,6000000
+22/06/2016,May16L000056,10mm² x 2–core LT Cable,Consumer at 2017 HTJ,,Suurman,,F. SIPHO,Private,12,Rain,9000000
+23/06/2016,May16L000057,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Kungwini Part 2,,K. WATTS,Company,14,Cloudy,9000000
+24/06/2016,May16L000058,10mm² x 2–core LT Cable,Consumer at 2017 HTJ,,Ekangala,,J. LIPPS,Telkom,15,Tue,9000000
+25/06/2016,May16L000059,10mm² x 2–core LT Cable,Consumer at 1899 HTJ,,Pretoria,,J. SMITH,Eskom,3,Cloudy,9000000
+26/06/2016,May16L000060,10mm² x 2–core LT Cable,Consumer at 2017 HTJ,,Winterveld,,N. NIMMS,Other,4,Rain,9000000
+27/06/2016,May16L000061,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Onverwacht,,F. SIPHO,Police,23,Cloudy,9000000
+28/06/2016,May16L000062,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Stinkwater,,K. WATTS,Private,43,Rain,9000000
+29/06/2016,May16L000063,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,New Eersterus,,J. LIPPS,Company,24,Tue,9000000
+30/06/2016,May16L000064,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Majaneng,,J. SMITH,Other,36,Cloudy,9000000
+01/07/2016,May16L000065,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Ga-Rankuwa,,N. NIMMS,Police,15,Windy,9000000
+02/07/2016,May16L000066,10mm² x 2–core LT Cable,Consumer at 2032 HTJ,,Mandela Village,,F. SIPHO,Private,45,Windy,15000000
+03/07/2016,May16L000067,10mm² x 2–core LT Cable,Consumer at 1899 HTJ,,Hebron,,K. WATTS,Company,14,Cloudy,6000000
+04/07/2016,May16L000068,10mm² x 2–core LT Cable,Consumer at 2032 HTJ,,Mashemong,,J. LIPPS,Telkom,54,Rain,6000000
+05/07/2016,May16L000069,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Marokolong,,J. SMITH,Eskom,16,Windy,9000000
+06/07/2016,May16L000070,10mm² x 2–core LT Cable,Consumer at 2032 HTJ,,Ramotse,,N. NIMMS,Other,4,Rain,9000000
+07/07/2016,May16L000071,10mm² x 2–core LT Cable,Consumer at 2032 HTJ,,Mabopane,,F. SIPHO,Police,23,Windy,9000000
+08/07/2016,May16L000072,10mm² x 2–core LT Cable,Consumer at 1899 HTJ,,Temba,,K. WATTS,Telkom,17,Tue,9000000
+09/07/2016,May16L000073,10mm² x 2–core LT Cable,Consumer at 2032 HTJ,,Hammanskraal,,J. LIPPS,Other,24,Windy,9000000
+10/07/2016,May16L000074,10mm² x 2–core LT Cable,Consumer at 2017 HTJ,,Makanyaneng,,J. SMITH,Police,36,Rain,9000000
+11/07/2016,May16L000075,10mm² x 2–core LT Cable,Consumer at 2017 HTJ,,Laudium,,N. NIMMS,Telkom,24,Cloudy,9000000
+12/07/2016,May16L000076,10mm² x 2–core LT Cable,Consumer at 2032 HTJ,,Soshanguve,,F. SIPHO,Other,1,Rain,6000000
+13/07/2016,May16L000077,10mm² x 2–core LT Cable,Consumer at 2032 HTJ,,Nellmapius,,K. WATTS,Police,15,Wed,6000000
+14/07/2016,May16L000078,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Eersterust,,J. LIPPS,Other,12,Rain,9000000
+15/07/2016,May16L000079,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Zithobeni,,J. SMITH,Police,2,Cloudy,9000000
+16/07/2016,May16L000080,10mm² x 2–core LT Cable,Consumer at 2017 HTJ,,Kekana Garden,,N. NIMMS,Private,54,Wed,9000000
+17/07/2016,May16L000081,10mm² x 2–core LT Cable,Consumer at 2032 HTJ,,Olievenhoutbos,,F. SIPHO,Company,56,Cloudy,9000000
+18/07/2016,May16L000082,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Rethabiseng,,K. WATTS,Other,4,Rain,9000000
+25/07/2016,May16L000083,10mm² x 2–core LT Cable,Consumer at 2032 HTJ,,Atteridgeville,,J. LIPPS,Police,23,Cloudy,9000000
+26/07/2016,May16L000084,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Kameelfontein,,J. SMITH,Telkom,43,Rain,9000000
+27/07/2016,May16L000085,10mm² x 2–core LT Cable,Consumer at 2017 HTJ,,Bosplaas Mathabe,,N. NIMMS,Other,3,Wed,9000000
+30/07/2016,May16L000086,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Wallmannsthal,,F. SIPHO,Police,4,Cloudy,9000000
+31/07/2016,May16L000087,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Kleinfontein,,K. WATTS,Other,15,Windy,9000000
+01/08/2016,May16L000088,10mm² x 2–core LT Cable,Consumer at 2032 HTJ,,Roodeplaat,,J. LIPPS,Police,12,Windy,15000000
+02/08/2016,May16L000089,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Tsebe,,J. SMITH,Private,14,Cloudy,15000000
+03/08/2016,May16L000090,10mm² x 2–core LT Cable,Consumer at 2017 HTJ,,Akasia,,N. NIMMS,Company,54,Rain,9000000
+04/08/2016,May16L000091,10mm² x 2–core LT Cable,Consumer at 2017 HTJ,,Thembisile,,F. SIPHO,Other,56,Windy,9000000
+05/08/2016,May16L000092,10mm² x 2–core LT Cable,Consumer at 2011 HTJ,,Suurman,,K. WATTS,Police,4,Rain,15000000
+06/08/2016,May16L000093,10mm² x 2–core LT Cable,Consumer at 2017 HTJ,,Kungwini Part 2,,J. LIPPS,Telkom,6,Windy,15000000
+07/08/2016,May16L000094,10mm² x 2–core LT Cable,Consumer at 2017 HTJ,,Ekangala,,J. SMITH,Other,43,Wed,9000000
+08/08/2016,May16L000095,10mm² x 2–core LT Cable,Consumer at 1996 HTJ,,Pretoria,,N. NIMMS,Police,7,Windy,9000000
