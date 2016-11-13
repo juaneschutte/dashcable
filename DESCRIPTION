@@ -1,6 +1,6 @@
-Package: flexocpu
+Package: dashcable
 Type: Package
-Title: Flexdashboard with opencpu
+Title: Dashboard with ocpu
 Version: 0.1.0
 Author: person("Yves", "Crutain", email = "yves.crutain@gmail.com",
   role = c("aut", "cre"))
