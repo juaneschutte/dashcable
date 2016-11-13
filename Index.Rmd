@@ -179,7 +179,7 @@ Row {data-height=200}
 
 ### Definition {data-width=800}
 
-Click the submit button for the latest predictions of cable theft incidents, knowing various factors such as weather, protective service patrolling numbers as well as protest action counts. Below is an Arima model output that accounts for various regressors mentioned here.   
+Click the update button for the latest predictions of cable theft incidents, knowing various factors such as weather, protective service patrolling numbers as well as protest action counts. Below is an Arima model output that accounts for various regressors mentioned here.   
 
 
  
@@ -189,13 +189,13 @@ Row {data-height=200}
 ### Municipal Protests
 
 ```{r valuebox1}
-valueBox(0, icon = "fa-pencil", color = '#01bb69')
+valueBox(3, icon = "fa-pencil", color = '#01bb69')
 ```
 
 ### Protective Service Patrols
 
 ```{r valuebox2}
-valueBox(0, icon = "fa-envelope-o", color = '#ff8039')
+valueBox(4, icon = "fa-envelope-o", color = '#ff8039')
 ```
 
 
