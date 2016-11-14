@@ -124,8 +124,9 @@ $(function(){
   });
 
 });
-  
+
 </script>
+
 
 ```{r setup, include=FALSE}
 # devtools::install_github("Rstudio/flexdashboard")
@@ -136,28 +137,9 @@ library(flexdashboard)
 
 Data Exploration
 ===================================== 
-
-Row {data-height=300}
+Row {data-height=700}
 -----------------------------------------------------------------------
-
-### Age Height by Sex
-
-```{r, fig.width=15}
-data("howell")
-
-ggplot2::ggplot(data = howell, ggplot2::aes(x = age, y = height, color = as.factor(male))) +
-  ggplot2::geom_point()
-```
-
-### Age Weight by Sexx
-
-```{r, fig.width=15}
-data("howell")
-
-ggplot2::ggplot(data = howell, ggplot2::aes(x = age, y = weight, color = as.factor(male))) +
-  ggplot2::geom_point()
-```
-
+<iframe width="100%" height="600" src="http://jsfiddle.net/juaneschutte/8do7qctv/4/embedded/result"></iframe>
 
 
 
@@ -229,7 +211,7 @@ gauge(125, min = 0, max = 100, gaugeSectors(
 Row {data-height=400}
 -----------------------------------------------------------------------
 
-### Age Height by Sex
+### Predictions over time
 
 ```{r, fig.width=15}
 data <- "Date Incidents NumberProtests NumberPatrols
@@ -271,18 +253,26 @@ data <- "Date Incidents NumberProtests NumberPatrols
 Prescribed Actions
 ===================================== 
 
-Row {data-height=300}
------------------------------------------------------------------------
-
-### Age Height by Sex
 
 Row {data-height=700}
 -----------------------------------------------------------------------
 
-### Mapping
+### Mapping of highest risk areas and actions required
 
-<button type="button" id="myBtn" >Map</button>
 
-<iframe src="about:blank" style='height: 620px;width: 1300px;display: none;'></iframe>
 
+<iframe width="100%" height="600" src="http://fiddle.jshell.net/juaneschutte/22efoqzL/2/embedded/result"></iframe>
+
+Financial Impact
+===================================== 
+
+
+Row {data-height=700}
+-----------------------------------------------------------------------
+
+### Visualisation of the Financial Model that quantifies the cost of each incident based on density and industry type variables. 
+
+
+
+<iframe width="100%" height="600" src="http://jsfiddle.net/juaneschutte/vtsnxvw4/2/embedded/result"></iframe>
 
