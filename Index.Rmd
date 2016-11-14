@@ -149,7 +149,7 @@ ggplot2::ggplot(data = howell, ggplot2::aes(x = age, y = height, color = as.fact
   ggplot2::geom_point()
 ```
 
-### Age Weight by Sex
+### Age Weight by Sexx
 
 ```{r, fig.width=15}
 data("howell")
