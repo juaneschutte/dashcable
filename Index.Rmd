@@ -139,7 +139,7 @@ Data Exploration
 ===================================== 
 Row {data-height=700}
 -----------------------------------------------------------------------
-<iframe width="100%" height="600" src="http://jsfiddle.net/juaneschutte/8do7qctv/4/embedded/result"></iframe>
+<iframe width="100%" height="600" src="http://jsfiddle.net/juaneschutte/8do7qctv/8/embedded/result"></iframe>
 
 
 
@@ -275,4 +275,18 @@ Row {data-height=700}
 
 
 <iframe width="100%" height="600" src="http://jsfiddle.net/juaneschutte/vtsnxvw4/2/embedded/result"></iframe>
+
+
+BPM Analytics
+===================================== 
+
+
+Row {data-height=700}
+-----------------------------------------------------------------------
+
+### Action Items and Tasks Outstanding 
+
+
+
+<iframe width="100%" height="600" src="http://jsfiddle.net/juaneschutte/qnkuozL0/embedded/result"></iframe>
 
